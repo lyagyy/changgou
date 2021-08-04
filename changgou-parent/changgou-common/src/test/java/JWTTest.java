@@ -44,5 +44,10 @@ public class JWTTest {
                 getBody();
         System.out.println(claims);
     }
+    
+    @Test
+    public void test(){
+        System.out.println("今天天气不错");
+    }
 }
 
