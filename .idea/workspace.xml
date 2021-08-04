@@ -7,7 +7,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4f66a562-7dc8-4cb9-948a-6daf14b54d23" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/JWTTest.java" afterPath="$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/JWTTest.java" />
-      <change beforePath="$PROJECT_DIR$/changgou-parent/changgou-common/target/test-classes/JWTTest.class" afterPath="$PROJECT_DIR$/changgou-parent/changgou-common/target/test-classes/JWTTest.class" />
     </list>
     <ignored path="$PROJECT_DIR$/changgou-parent/target/" />
     <ignored path="$PROJECT_DIR$/changgou-parent/changgou-web/target/" />
@@ -94,8 +93,8 @@
       <file leaf-file-name="JWTTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/JWTTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="983">
-              <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+            <state relative-caret-position="1009">
+              <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1428#1429#0" expanded="true" />
@@ -622,7 +621,7 @@
       <workItem from="1627967654410" duration="13038000" />
       <workItem from="1628057612599" duration="618000" />
       <workItem from="1628060101131" duration="292000" />
-      <workItem from="1628073308897" duration="323000" />
+      <workItem from="1628073308897" duration="449000" />
     </task>
     <servers />
   </component>
@@ -659,7 +658,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="533026000" />
+    <option name="totallyTimeSpent" value="533152000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1126,8 +1125,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/JWTTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="983">
-          <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        <state relative-caret-position="1009">
+          <caret line="49" column="28" lean-forward="true" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1428#1429#0" expanded="true" />
