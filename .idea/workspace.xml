@@ -5,7 +5,10 @@
     <bookmark url="file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-pay/src/main/java/com/changgou/pay/service/Impl/WeiXinPayServiceImpl.java" line="41" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f66a562-7dc8-4cb9-948a-6daf14b54d23" name="Default" comment="" />
+    <list default="true" id="4f66a562-7dc8-4cb9-948a-6daf14b54d23" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/JWTTest.java" afterPath="$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/JWTTest.java" />
+      <change beforePath="$PROJECT_DIR$/changgou-parent/changgou-common/target/test-classes/JWTTest.class" afterPath="$PROJECT_DIR$/changgou-parent/changgou-common/target/test-classes/JWTTest.class" />
+    </list>
     <ignored path="$PROJECT_DIR$/changgou-parent/target/" />
     <ignored path="$PROJECT_DIR$/changgou-parent/changgou-web/target/" />
     <ignored path="$PROJECT_DIR$/changgou-parent/changgou-eureka/target/" />
@@ -88,21 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HttpClientTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/HttpClientTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="JWTTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/JWTTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            <state relative-caret-position="983">
+              <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1428#1429#0" expanded="true" />
@@ -244,7 +237,6 @@
     <option name="width" value="1452" />
     <option name="height" value="1417" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -260,9 +252,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,11 +271,37 @@
               <item name="changgou-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="changgou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="changgou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="changgou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="changgou-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -606,7 +622,7 @@
       <workItem from="1627967654410" duration="13038000" />
       <workItem from="1628057612599" duration="618000" />
       <workItem from="1628060101131" duration="292000" />
-      <workItem from="1628072796790" duration="279000" />
+      <workItem from="1628073308897" duration="323000" />
     </task>
     <servers />
   </component>
@@ -643,7 +659,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="532982000" />
+    <option name="totallyTimeSpent" value="533026000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -752,6 +768,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-transaction-fescar/src/main/java/com/changgou/fescar/FescarRestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-transaction-fescar/src/main/java/com/changgou/fescar/FescarRMRequestFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -1101,18 +1124,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/HttpClientTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/JWTTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="983">
+          <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1428#1429#0" expanded="true" />
