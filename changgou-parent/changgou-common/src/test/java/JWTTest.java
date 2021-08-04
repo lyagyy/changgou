@@ -48,6 +48,8 @@ public class JWTTest {
     @Test
     public void test(){
         System.out.println("今天天气不错");
+        System.out.println("最后一次休息");
+		
     }
 }
 
