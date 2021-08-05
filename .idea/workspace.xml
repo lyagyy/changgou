@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-pay/src/main/java/com/changgou/pay/service/Impl/WeiXinPayServiceImpl.java" line="41" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f66a562-7dc8-4cb9-948a-6daf14b54d23" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/JWTTest.java" afterPath="$PROJECT_DIR$/changgou-parent/changgou-common/src/test/java/JWTTest.java" />
-    </list>
+    <list default="true" id="4f66a562-7dc8-4cb9-948a-6daf14b54d23" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/changgou-parent/target/" />
     <ignored path="$PROJECT_DIR$/changgou-parent/changgou-web/target/" />
     <ignored path="$PROJECT_DIR$/changgou-parent/changgou-eureka/target/" />
@@ -621,7 +619,7 @@
       <workItem from="1627967654410" duration="13038000" />
       <workItem from="1628057612599" duration="618000" />
       <workItem from="1628060101131" duration="292000" />
-      <workItem from="1628073308897" duration="449000" />
+      <workItem from="1628073308897" duration="1049000" />
     </task>
     <servers />
   </component>
@@ -658,7 +656,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="533152000" />
+    <option name="totallyTimeSpent" value="533752000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -671,7 +669,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1062" y="14" width="1452" height="1417" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27937743" sideWeight="0.5086207" order="7" side_tool="true" content_ui="tabs" />
@@ -693,7 +690,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23346303" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33189654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33189654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
